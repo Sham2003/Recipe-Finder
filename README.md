@@ -1,4 +1,4 @@
-# Quiz App
+# Recipe Finder
 This is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. This is a recipe finder that  finds recipes from backend which is connected to mongodb database which has 500 recipes taken from open-source data.
 
 
